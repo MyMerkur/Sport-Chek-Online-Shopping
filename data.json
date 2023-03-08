@@ -1,0 +1,184 @@
+[ 
+    {
+        "id":1,
+        "name":"Jordan-1",
+        "image": "./image/shoes1.png",
+        "price": 109, 
+        "category": "shoes"   
+    },
+    {
+        "id":2,
+        "name":"Hyper-Dunk 5",
+        "image": "./image/new-shoes2.webp" ,
+        "price": 99,
+        "category": "shoes"       
+    },
+    {
+        "id":3,
+        "name":"Street",
+        "image": "./image/shoes3.webp", 
+        "price": 420 ,
+        "category": "shoes"     
+    },
+    {
+        "id":4,
+        "name":"Air-jordan 8",
+        "image": "./image/new-shoes3.webp",
+        "price": 680 ,
+        "category": "shoes"       
+    },
+    {
+        "id":5,
+        "name":"Air Freak ",
+        "image": "./image/shoes5.jpg",
+        "price": 1050 ,
+        "category": "shoes"      
+    },
+    {
+        "id":6,
+        "name":"Run X",
+        "image": "./image/new-shoes1.webp" ,
+        "price": 995 ,
+        "category": "shoes"      
+    },
+    {
+        "id":7,
+        "name":"Air Hoodie",
+        "image": "./image/hoodie1.png" ,
+        "price": 89 ,
+        "category":"hoodies" 
+
+    },
+    {
+        "id":8,
+        "name":"Run X",
+        "image": "./image/hoodie2.webp" ,
+        "price": 65 ,
+        "category":"hoodies"      
+    },
+    {
+        "id":9,
+        "name":"Run X",
+        "image": "./image/hoodie3.webp" ,
+        "price":99 ,
+        "category":"hoodies"      
+    },
+    {
+        "id":10,
+        "name":"Run X",
+        "image": "./image/hoodie4.jfif" ,
+        "price": 209 ,
+        "category":"hoodies"      
+    },
+    {
+        "id":11,
+        "name":"Run X",
+        "image": "./image/hoodie5.webp",
+        "price": 305 ,
+        "category":"hoodies"     
+    },
+    {
+        "id":12,
+        "name":"Run X",
+        "image": "./image/hoodie6.webp" ,
+        "price": 606 ,
+        "category":"hoodies"      
+    },
+    {
+        "id":13,
+        "name":"Air Jacket",
+        "image": "./image/outfit1.png" ,
+        "price": 299 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":14,
+        "name":"Air Jacket",
+        "image": "./image/outfit2.png" ,
+        "price": 399 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":15,
+        "name":"Air Jacket",
+        "image": "./image/outfit3.webp" ,
+        "price": 209 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":16,
+        "name":"Air Jacket",
+        "image": "./image/outfit4.png" ,
+        "price": 699 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":17,
+        "name":"Air Jacket",
+        "image": "./image/outfit5.webp" ,
+        "price": 1099 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":18,
+        "name":"Air Jacket",
+        "image": "./image/outfit6.webp" ,
+        "price": 899 ,
+        "category":"outfit" 
+
+    },
+    {
+        "id":19,
+        "name":"Ball",
+        "image": "./image/ball1.webp" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    },
+    {
+        "id":20,
+        "name":"Ball",
+        "image": "./image/ball2.webp" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    },
+    {
+        "id":21,
+        "name":"Ball",
+        "image": "./image/ball3.webp" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    },
+    {
+        "id":22,
+        "name":"Ball",
+        "image": "./image/ball4.jfif" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    },
+    {
+        "id":23,
+        "name":"Ball",
+        "image": "./image/ball5.jfif" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    },
+    {
+        "id":24,
+        "name":"Ball",
+        "image": "./image/ball6.jfif" ,
+        "price": 899 ,
+        "category":"ball" 
+
+    }
+]
+
